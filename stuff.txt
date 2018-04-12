@@ -1,0 +1,41 @@
+kingdoms
+
+
+
+
+Galdahor- a peaceful kingdom where the player is in service at the start of the game, it falls when galdohor hold is attacked.
+
+
+
+Sorcerer collective - a non violent group of magic casters Located in a far off land in an unreachable citadel. studies the ancient world and the other realm.
+currently studying what the ancient empire had to do with the orbs.
+
+
+Holy empire - the empire led by teh church, with crusaders priests and paladins as their armed forces believes in the coming holy war. one of their agents saves the player durring the siege.
+
+
+non kingdoms
+
+rest of the world is just normal people doing normal things they require the aid of someone.
+
+
+
+
+Dark empire - an empire that seeks the coming holy war, near the start of teh game they siege galdahor hold looking for the mystic orb held within.
+
+
+
+Eternal empire - an ancient empire that existed a long time ago until they were punished by the gods and sealed away in the dark realm, they seek their vengence on the world. a couple of their agents have found their way into the normal world and are beginning a ritual to change everything. 
+
+
+
+https://www.google.com/search?rlz=1C1GCEA_enUS789US789&ei=Tp_PWrOtKsP8jwS4r7bABw&q=unity+how+does+lod+work&oq=unity+how+does+lod+work&gs_l=psy-ab.3..33i22i29i30k1l10.1884.2539.0.2811.2.2.0.0.0.0.110.207.1j1.2.0....0...1.1.64.psy-ab..0.2.206....0.lWT3wVSOT-Y
+
+
+
+https://www.game-change.co.uk/2016/05/16/11-golden-rules-of-good-tower-defense-games/
+
+
+https://www.gamasutra.com/blogs/TeddyPhan/20170427/296950/Tower_Defense_Game_Rules_Part_1.php
+
+https://www.gamasutra.com/blogs/TeddyPhan/20170717/301833/Tower_Defense_Game_Rules_Part_2.php
